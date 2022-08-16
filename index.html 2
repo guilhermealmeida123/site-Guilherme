@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>
+        Site da Yasmin
+    </title>
+   
+    <style>
+        h1 {
+            text-align: center;
+            color: black;
+            background: yellow;
+        }
+        p {
+            text-align: center;
+            color: black;
+            font-size: 30px;
+        }
+        img{
+            display: block;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+  <img src="https://i0.wp.com/animagos.com.br/wp-content/uploads/2015/09/lufa-lufa.jpg?fit=660%2C330&ssl=1">
+    <h1>SITE DA LUFA-LUFA</h1>
+
+<p><b>Primeiro Parágrafo</b></p>
+<p><i>Segundo parágrafo do meu site</i></p>
+<p><u>Terceiro Parágrafo do meu site</u></p>
+
+<ul>
+                <li class="itens">A</li>
+                <li class="itens">Casa</li>
+                <li class="itens">Dos</li>
+                <li class="itens">Leais</li>
+            </ul>
+</body>
+</html>
