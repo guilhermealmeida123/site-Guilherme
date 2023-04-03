@@ -1,11 +1,11 @@
 h1 {
             text-align: center;
-            color: green;
-            background: darkred;
+            color: rgb(226, 8, 8);
+            background: rgb(0, 0, 0);
         }
         p { font-size: 1cm;
             text-align: center;
-            color: purple;
+            color: rgb(255, 15, 7));
         }
         img {
             display: block;
@@ -20,7 +20,7 @@ h1 {
 
         .seguro{
             font-weight: ; bold
-        }a de aluguel
+        }a 
         .comprometidos{
             color: orangered;
         }
